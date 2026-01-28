@@ -3,7 +3,6 @@
 
 <div align="center">
   <ul align="left">
-    <li>🚀 <strong>Currently building:</strong> <span style="color:#007acc;">"VERO" NFT Marketplace</span></li>
     <li>🌱 <strong>Learning & experimenting:</strong> <span style="color:#ff6600;">Smart Contracts & Web3</span></li>
     <li>🛠️ <strong>DevOps Enthusiast:</strong> Hands-on with <code>Docker</code>, <code>Kubernetes</code>, <code>CI/CD</code>, <code>Foundry</code>, and more</li>
     <li>📫 <strong>Reach me at:</strong> <a href="mailto:chamathrko@gmail.com">chamathrko@gmail.com</a></li>
